@@ -1,0 +1,84 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_feminine-style">
+            <key name="feminine_style_theme_options">
+                <key name="feminine-style-display-site-logo"/>
+                <key name="feminine-style-display-site-title"/>
+                <key name="feminine-style-display-site-tagline"/>
+                <key name="feminine-style-header-height"/>
+                <key name="feminine-style-header-image-display"/>
+                <key name="feminine-style-enable-header-top"/>
+                <key name="feminine-style-header-top-menu-display-selection"/>
+                <key name="feminine-style-header-top-info-display-selection"/>
+                <key name="feminine-style-header-top-social-display-selection"/>
+                <key name="feminine-style-menu-display-options"/>
+                <key name="feminine-style-enable-sticky"/>
+                <key name="feminine-style-menu-right-button-options"/>
+                <key name="feminine-style-menu-right-button-title"/>
+                <key name="feminine-style-menu-right-button-link"/>
+                <key name="feminine-style-enable-cart-icon"/>
+                <key name="feminine-style-enable-feature"/>
+                <key name="feminine-style-slides-data"/>
+                <key name="feminine-style-feature-slider-enable-animation"/>
+                <key name="feminine-style-feature-slider-display-title"/>
+                <key name="feminine-style-feature-slider-display-excerpt"/>
+                <key name="feminine-style-fs-display-options"/>
+                <key name="feminine-style-fs-image-display-options"/>
+                <key name="feminine-style-feature-slider-text-align"/>
+                <key name="feminine-style-slider-scroll-text"/>
+                <key name="feminine-style-slider-scroll-link"/>
+                <key name="feminine-style-feature-info-number"/>
+                <key name="feminine-style-first-info-icon"/>
+                <key name="feminine-style-first-info-title"/>
+                <key name="feminine-style-first-info-desc"/>
+                <key name="feminine-style-second-info-icon"/>
+                <key name="feminine-style-second-info-title"/>
+                <key name="feminine-style-second-info-desc"/>
+                <key name="feminine-style-third-info-icon"/>
+                <key name="feminine-style-third-info-title"/>
+                <key name="feminine-style-third-info-desc"/>
+                <key name="feminine-style-forth-info-icon"/>
+                <key name="feminine-style-forth-info-title"/>
+                <key name="feminine-style-forth-info-desc"/>
+                <key name="feminine-style-footer-copyright"/>
+                <key name="feminine-style-footer-copyright-beside-option"/>
+                <key name="feminine-style-enable-footer-power-text"/>
+                <key name="feminine-style-footer-site-info"/>
+                <key name="feminine-style-footer-bg-img"/>
+                <key name="feminine-style-pagination-option"/>
+                <key name="feminine-style-enable-animation"/>
+                <key name="feminine-style-single-sidebar-layout"/>
+                <key name="feminine-style-front-page-sidebar-layout"/>
+                <key name="feminine-style-archive-sidebar-layout"/>
+                <key name="feminine-style-blog-archive-img-size"/>
+                <key name="feminine-style-blog-archive-content-from"/>
+                <key name="feminine-style-blog-archive-excerpt-length"/>
+                <key name="feminine-style-blog-archive-more-text"/>
+                <key name="feminine-style-primary-color"/>
+                <key name="feminine-style-header-top-bg-color"/>
+                <key name="feminine-style-footer-bg-color"/>
+                <key name="feminine-style-footer-bottom-bg-color"/>
+                <key name="feminine-style-link-color"/>
+                <key name="feminine-style-link-hover-color"/>
+                <key name="feminine-style-hide-front-page-content"/>
+                <key name="feminine-style-hide-front-page-header"/>
+                <key name="feminine-style-wc-shop-archive-sidebar-layout"/>
+                <key name="feminine-style-wc-product-column-number"/>
+                <key name="feminine-style-wc-shop-archive-total-product"/>
+                <key name="feminine-style-wc-single-product-sidebar-layout"/>
+                <key name="feminine-style-single-header-title"/>
+                <key name="feminine-style-single-img-size"/>
+                <key name="feminine-style-popup-widget-title"/>
+                <key name="feminine-style-breadcrumb-options"/>
+                <key name="feminine-style-search-placeholder"/>
+                <key name="feminine-style-social-data"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+
