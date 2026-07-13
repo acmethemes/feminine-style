@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-07-08T15:10:04+00:00\n"
+"POT-Creation-Date: 2026-07-13T17:47:02+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: feminine-style\n"
@@ -17,7 +17,7 @@ msgstr ""
 #. Theme Name of the theme
 #: style.css
 #: acmethemes/admin-notice/class-admin-notice-handler.php:184
-#: acmethemes/at-theme-info/class-at-theme-info.php:1304
+#: acmethemes/at-theme-info/class-at-theme-info.php:1302
 msgid "Feminine Style"
 msgstr ""
 
@@ -122,700 +122,700 @@ msgstr ""
 msgid "Got theme support question?"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:43
-#: acmethemes/at-theme-info/class-at-theme-info.php:46
+#: acmethemes/at-theme-info/class-at-theme-info.php:41
+#: acmethemes/at-theme-info/class-at-theme-info.php:44
 msgid "Feminine Style Info"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:49
+#: acmethemes/at-theme-info/class-at-theme-info.php:47
 #, php-format
 msgid "Welcome to %s - "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:52
+#: acmethemes/at-theme-info/class-at-theme-info.php:50
 #, php-format
 msgid "%s is now installed and ready to use. We hope the following information will help you. If you want to ask any query or just want to say hello, you can always contact us. We hope you enjoy it! "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:59
+#: acmethemes/at-theme-info/class-at-theme-info.php:57
 msgid "Theme Details"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:63
+#: acmethemes/at-theme-info/class-at-theme-info.php:61
 msgid "View Demo"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:67
-#: acmethemes/at-theme-info/class-at-theme-info.php:249
+#: acmethemes/at-theme-info/class-at-theme-info.php:65
+#: acmethemes/at-theme-info/class-at-theme-info.php:247
 msgid "View Pro Version"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:71
+#: acmethemes/at-theme-info/class-at-theme-info.php:69
 msgid "Rate This Theme"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:91
+#: acmethemes/at-theme-info/class-at-theme-info.php:89
 msgid "Getting Started"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:92
+#: acmethemes/at-theme-info/class-at-theme-info.php:90
 msgid "Recommended Actions"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:93
+#: acmethemes/at-theme-info/class-at-theme-info.php:91
 msgid "Useful Plugins"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:94
+#: acmethemes/at-theme-info/class-at-theme-info.php:92
 msgid "Support"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:95
+#: acmethemes/at-theme-info/class-at-theme-info.php:93
 msgid "Changelog"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:96
+#: acmethemes/at-theme-info/class-at-theme-info.php:94
 msgid "FAQ"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:97
+#: acmethemes/at-theme-info/class-at-theme-info.php:95
 msgid "Free VS PRO"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:103
+#: acmethemes/at-theme-info/class-at-theme-info.php:101
 msgid "Step 1 : Read full documentation"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:104
-#: acmethemes/at-theme-info/class-at-theme-info.php:239
+#: acmethemes/at-theme-info/class-at-theme-info.php:102
+#: acmethemes/at-theme-info/class-at-theme-info.php:237
 msgid "Please check our full documentation for detailed information on how to Setup and Use Feminine Style."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:105
-#: acmethemes/at-theme-info/class-at-theme-info.php:237
+#: acmethemes/at-theme-info/class-at-theme-info.php:103
+#: acmethemes/at-theme-info/class-at-theme-info.php:235
 msgid "Documentation"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:112
+#: acmethemes/at-theme-info/class-at-theme-info.php:110
 msgid "Step 2 : Go to Customizer"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:113
+#: acmethemes/at-theme-info/class-at-theme-info.php:111
 msgid "All Setting, Theme Options, Widgets and Menus are available via Customize screen. Have a quick look or start customization!"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:114
+#: acmethemes/at-theme-info/class-at-theme-info.php:112
 msgid "Go to Customizer"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:121
+#: acmethemes/at-theme-info/class-at-theme-info.php:119
 msgid "Step 3: Setting Static Front Page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:122
+#: acmethemes/at-theme-info/class-at-theme-info.php:120
 msgid "Select A static page than Front page and Posts page to enable Slider and Home Main Content Area"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:123
+#: acmethemes/at-theme-info/class-at-theme-info.php:121
 msgid "Static Front Page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:130
+#: acmethemes/at-theme-info/class-at-theme-info.php:128
 msgid "Step 4 : Setting Featured Section "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:131
+#: acmethemes/at-theme-info/class-at-theme-info.php:129
 msgid "Advanced Feature Section is available in this theme. Please do the Step 3 before this."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:132
+#: acmethemes/at-theme-info/class-at-theme-info.php:130
 msgid "Featured Section"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:139
+#: acmethemes/at-theme-info/class-at-theme-info.php:137
 msgid "Step 5 : Setting Home Main Content Area "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:140
+#: acmethemes/at-theme-info/class-at-theme-info.php:138
 msgid "You can Add, Edit, Remove or Drag, Drop, Reorder widgets on Home Main Content Area. Please do the Step 3 before this."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:141
+#: acmethemes/at-theme-info/class-at-theme-info.php:139
 #: acmethemes/sidebar-widget/sidebar.php:122
 msgid "Home Main Content Area"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:148
+#: acmethemes/at-theme-info/class-at-theme-info.php:146
 msgid "WooCommerce Compatible"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:149
+#: acmethemes/at-theme-info/class-at-theme-info.php:147
 msgid "The theme is fully compatible with WooCommerce"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:150
+#: acmethemes/at-theme-info/class-at-theme-info.php:148
 msgid "Install Recommended Plugins"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:160
+#: acmethemes/at-theme-info/class-at-theme-info.php:158
 msgid "Install Demo Setup"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:161
-#: acmethemes/at-theme-info/class-at-theme-info.php:189
+#: acmethemes/at-theme-info/class-at-theme-info.php:159
+#: acmethemes/at-theme-info/class-at-theme-info.php:187
 #, php-format
 msgid "For the demo content installation, install the Acme Demo Setup plugin and other Recommended plugins, download demo content from %1$s here %2$s. Then go to \"Acme Demo Setup\" and import demo. "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:167
+#: acmethemes/at-theme-info/class-at-theme-info.php:165
 msgid "Setting Static Front Page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:168
+#: acmethemes/at-theme-info/class-at-theme-info.php:166
 #, php-format
 msgid "Select A static page than Front page and Posts page to enable Slider and Home Main Content Area %1$s Static Front Page %2$s "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:187
+#: acmethemes/at-theme-info/class-at-theme-info.php:185
 msgid "How to Setup Site like Demo"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:190
+#: acmethemes/at-theme-info/class-at-theme-info.php:188
 msgid "Download Demo Content"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:196
+#: acmethemes/at-theme-info/class-at-theme-info.php:194
 msgid "Feature Section is now Showing"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:198
+#: acmethemes/at-theme-info/class-at-theme-info.php:196
 msgid "Please go to Setting => Reading, then Select A static page than Homepage and Posts page to enable Slider and Home Main Content Area"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:199
+#: acmethemes/at-theme-info/class-at-theme-info.php:197
 msgid "Set Static Page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:206
+#: acmethemes/at-theme-info/class-at-theme-info.php:204
 msgid "Hide Feminine Style by Acme Themes from footer ? "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:208
+#: acmethemes/at-theme-info/class-at-theme-info.php:206
 msgid "Please visit the blog post to know more about it."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:209
+#: acmethemes/at-theme-info/class-at-theme-info.php:207
 msgid "Hide credit text on Footer"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:216
+#: acmethemes/at-theme-info/class-at-theme-info.php:214
 msgid "Recent Updates of your Site ? "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:218
+#: acmethemes/at-theme-info/class-at-theme-info.php:216
 msgid "Where i can get the recent updates of theme related updates ? "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:219
+#: acmethemes/at-theme-info/class-at-theme-info.php:217
 msgid "Visit our site blog page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:228
-#: acmethemes/at-theme-info/class-at-theme-info.php:231
+#: acmethemes/at-theme-info/class-at-theme-info.php:226
+#: acmethemes/at-theme-info/class-at-theme-info.php:229
 msgid "Contact Support"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:230
+#: acmethemes/at-theme-info/class-at-theme-info.php:228
 msgid "Got theme support question or found bug? Best place to ask your query is our dedicated Support forum."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:240
+#: acmethemes/at-theme-info/class-at-theme-info.php:238
 msgid "Read full documentation"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:246
+#: acmethemes/at-theme-info/class-at-theme-info.php:244
 msgid "Need more features?"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:248
+#: acmethemes/at-theme-info/class-at-theme-info.php:246
 msgid "Upgrade to PRO version for more exciting features and Priority Support."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:255
+#: acmethemes/at-theme-info/class-at-theme-info.php:253
 msgid "Got sales related question?"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:257
+#: acmethemes/at-theme-info/class-at-theme-info.php:255
 msgid "Have any query before purchase, you are more than welcome to ask."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:258
+#: acmethemes/at-theme-info/class-at-theme-info.php:256
 msgid "Pre-sale Question?"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:264
-#: acmethemes/at-theme-info/class-at-theme-info.php:267
+#: acmethemes/at-theme-info/class-at-theme-info.php:262
+#: acmethemes/at-theme-info/class-at-theme-info.php:265
 msgid "Customization Request"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:266
+#: acmethemes/at-theme-info/class-at-theme-info.php:264
 msgid "Needed any customization for the theme, you can request from here."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:277
+#: acmethemes/at-theme-info/class-at-theme-info.php:275
 msgid "Custom Widgets"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:278
+#: acmethemes/at-theme-info/class-at-theme-info.php:276
 msgid "All added custom widgets are ready for page builder plugin"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:279
+#: acmethemes/at-theme-info/class-at-theme-info.php:277
 msgid "8+ Available"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:280
+#: acmethemes/at-theme-info/class-at-theme-info.php:278
 msgid "17+ Available"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:283
+#: acmethemes/at-theme-info/class-at-theme-info.php:281
 msgid "Widget Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:284
+#: acmethemes/at-theme-info/class-at-theme-info.php:282
 msgid "Every widgets have multiple options to customize section"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:285
-#: acmethemes/at-theme-info/class-at-theme-info.php:297
-#: acmethemes/at-theme-info/class-at-theme-info.php:303
-#: acmethemes/at-theme-info/class-at-theme-info.php:309
-#: acmethemes/at-theme-info/class-at-theme-info.php:321
-#: acmethemes/at-theme-info/class-at-theme-info.php:333
-#: acmethemes/at-theme-info/class-at-theme-info.php:339
-#: acmethemes/at-theme-info/class-at-theme-info.php:423
+#: acmethemes/at-theme-info/class-at-theme-info.php:283
+#: acmethemes/at-theme-info/class-at-theme-info.php:295
+#: acmethemes/at-theme-info/class-at-theme-info.php:301
+#: acmethemes/at-theme-info/class-at-theme-info.php:307
+#: acmethemes/at-theme-info/class-at-theme-info.php:319
+#: acmethemes/at-theme-info/class-at-theme-info.php:331
+#: acmethemes/at-theme-info/class-at-theme-info.php:337
+#: acmethemes/at-theme-info/class-at-theme-info.php:421
 msgid "Limited"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:286
-#: acmethemes/at-theme-info/class-at-theme-info.php:304
-#: acmethemes/at-theme-info/class-at-theme-info.php:310
-#: acmethemes/at-theme-info/class-at-theme-info.php:322
-#: acmethemes/at-theme-info/class-at-theme-info.php:340
-#: acmethemes/at-theme-info/class-at-theme-info.php:370
-#: acmethemes/at-theme-info/class-at-theme-info.php:376
-#: acmethemes/at-theme-info/class-at-theme-info.php:382
-#: acmethemes/at-theme-info/class-at-theme-info.php:400
-#: acmethemes/at-theme-info/class-at-theme-info.php:424
+#: acmethemes/at-theme-info/class-at-theme-info.php:284
+#: acmethemes/at-theme-info/class-at-theme-info.php:302
+#: acmethemes/at-theme-info/class-at-theme-info.php:308
+#: acmethemes/at-theme-info/class-at-theme-info.php:320
+#: acmethemes/at-theme-info/class-at-theme-info.php:338
+#: acmethemes/at-theme-info/class-at-theme-info.php:368
+#: acmethemes/at-theme-info/class-at-theme-info.php:374
+#: acmethemes/at-theme-info/class-at-theme-info.php:380
+#: acmethemes/at-theme-info/class-at-theme-info.php:398
+#: acmethemes/at-theme-info/class-at-theme-info.php:422
 msgid "Multiple Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:289
+#: acmethemes/at-theme-info/class-at-theme-info.php:287
 msgid "Google Fonts"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:290
+#: acmethemes/at-theme-info/class-at-theme-info.php:288
 msgid "Google fonts options for changing the overall site fonts "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:292
+#: acmethemes/at-theme-info/class-at-theme-info.php:290
 msgid "Unlimited +"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:295
+#: acmethemes/at-theme-info/class-at-theme-info.php:293
 msgid "Color Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:296
+#: acmethemes/at-theme-info/class-at-theme-info.php:294
 msgid "Color options for changing overall site colors, Contact us"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:298
+#: acmethemes/at-theme-info/class-at-theme-info.php:296
 msgid "Almost All parts"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:301
+#: acmethemes/at-theme-info/class-at-theme-info.php:299
 #: acmethemes/customizer/header-options/header-panel.php:6
 msgid "Header Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:302
+#: acmethemes/at-theme-info/class-at-theme-info.php:300
 msgid "Customize the header section as your need."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:307
+#: acmethemes/at-theme-info/class-at-theme-info.php:305
 #: acmethemes/customizer/header-options/menu-options.php:52
 msgid "Menu Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:308
+#: acmethemes/at-theme-info/class-at-theme-info.php:306
 msgid "Lots of menu options are available to manage the menu section. Appearance > Menus"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:313
+#: acmethemes/at-theme-info/class-at-theme-info.php:311
 msgid "Featured Selection"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:314
+#: acmethemes/at-theme-info/class-at-theme-info.php:312
 msgid "This is slider section. Check every options there"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:315
+#: acmethemes/at-theme-info/class-at-theme-info.php:313
 msgid "Unlimited Page"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:316
+#: acmethemes/at-theme-info/class-at-theme-info.php:314
 msgid "Unlimited Page, Custom or Third Party"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:319
+#: acmethemes/at-theme-info/class-at-theme-info.php:317
 #: acmethemes/customizer/feature-section/feature-panel.php:6
 msgid "Featured Section Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:320
+#: acmethemes/at-theme-info/class-at-theme-info.php:318
 msgid "Options to manage the sliders"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:325
+#: acmethemes/at-theme-info/class-at-theme-info.php:323
 msgid "Sticky Sidebar"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:326
+#: acmethemes/at-theme-info/class-at-theme-info.php:324
 msgid "Enable/Disable sticky sidebars"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:331
+#: acmethemes/at-theme-info/class-at-theme-info.php:329
 msgid "Blog/Archive Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:332
+#: acmethemes/at-theme-info/class-at-theme-info.php:330
 msgid "Various Options are available for the blog and archive page management. Check on Appearance > Customize > Layout/Design Options."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:334
+#: acmethemes/at-theme-info/class-at-theme-info.php:332
 msgid "Manage Every Entity"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:337
+#: acmethemes/at-theme-info/class-at-theme-info.php:335
 #: acmethemes/customizer/footer-options/footer-panel.php:6
 msgid "Footer Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:338
+#: acmethemes/at-theme-info/class-at-theme-info.php:336
 msgid "Manage the every entity related to footer section."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:343
+#: acmethemes/at-theme-info/class-at-theme-info.php:341
 #: acmethemes/customizer/options/social-options.php:6
 msgid "Social Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:344
+#: acmethemes/at-theme-info/class-at-theme-info.php:342
 msgid "Options to manage the social icons like facebook, instagram, linkedin etc."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:349
+#: acmethemes/at-theme-info/class-at-theme-info.php:347
 msgid "Theme Credit Link"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:350
+#: acmethemes/at-theme-info/class-at-theme-info.php:348
 msgid "Options to disable to Powered by text on footer."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:351
-#: acmethemes/at-theme-info/class-at-theme-info.php:358
+#: acmethemes/at-theme-info/class-at-theme-info.php:349
+#: acmethemes/at-theme-info/class-at-theme-info.php:356
 msgid "Enable/Disable"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:352
+#: acmethemes/at-theme-info/class-at-theme-info.php:350
 msgid "Enable/Disable/Custom"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:355
+#: acmethemes/at-theme-info/class-at-theme-info.php:353
 msgid "Own Credit Link"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:356
+#: acmethemes/at-theme-info/class-at-theme-info.php:354
 msgid "Write your own credit text."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:361
+#: acmethemes/at-theme-info/class-at-theme-info.php:359
 msgid "Social Icons"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:362
+#: acmethemes/at-theme-info/class-at-theme-info.php:360
 msgid "Enter the URL for social icons. "
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:363
+#: acmethemes/at-theme-info/class-at-theme-info.php:361
 msgid "Unlimited"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:364
+#: acmethemes/at-theme-info/class-at-theme-info.php:362
 msgid "Unlimited with multiple Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:367
+#: acmethemes/at-theme-info/class-at-theme-info.php:365
 msgid "Intro Loader Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:368
+#: acmethemes/at-theme-info/class-at-theme-info.php:366
 msgid "It will load before the site loaded completely."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:373
+#: acmethemes/at-theme-info/class-at-theme-info.php:371
 msgid "Related Post Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:374
+#: acmethemes/at-theme-info/class-at-theme-info.php:372
 msgid "Related post will appear on single post of each blog article"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:379
+#: acmethemes/at-theme-info/class-at-theme-info.php:377
 msgid "Author Info Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:380
+#: acmethemes/at-theme-info/class-at-theme-info.php:378
 msgid "This will appear on single post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:385
+#: acmethemes/at-theme-info/class-at-theme-info.php:383
 msgid "Feature Image Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:386
+#: acmethemes/at-theme-info/class-at-theme-info.php:384
 msgid "Featured image options for the single page and post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:388
+#: acmethemes/at-theme-info/class-at-theme-info.php:386
 msgid "Manage As Your Need"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:391
+#: acmethemes/at-theme-info/class-at-theme-info.php:389
 msgid "Navigation Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:392
+#: acmethemes/at-theme-info/class-at-theme-info.php:390
 msgid "Post Navigation means, previous post and next post. Check on single post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:393
-#: acmethemes/at-theme-info/class-at-theme-info.php:441
-#: acmethemes/at-theme-info/class-at-theme-info.php:453
+#: acmethemes/at-theme-info/class-at-theme-info.php:391
+#: acmethemes/at-theme-info/class-at-theme-info.php:439
+#: acmethemes/at-theme-info/class-at-theme-info.php:451
 #: acmethemes/customizer/customizer-core.php:14
 #: acmethemes/customizer/customizer-core.php:302
 #: acmethemes/sidebar-widget/sidebar.php:30
 msgid "Default"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:394
-#: acmethemes/at-theme-info/class-at-theme-info.php:412
+#: acmethemes/at-theme-info/class-at-theme-info.php:392
+#: acmethemes/at-theme-info/class-at-theme-info.php:410
 msgid "Advanced"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:397
+#: acmethemes/at-theme-info/class-at-theme-info.php:395
 msgid "Post Comment Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:398
+#: acmethemes/at-theme-info/class-at-theme-info.php:396
 msgid "Manage the comment section on single post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:403
+#: acmethemes/at-theme-info/class-at-theme-info.php:401
 msgid "Show/Hide Comment"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:404
+#: acmethemes/at-theme-info/class-at-theme-info.php:402
 msgid "Options to show hide comments on page and post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:409
+#: acmethemes/at-theme-info/class-at-theme-info.php:407
 msgid "Breadcrumb"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:410
+#: acmethemes/at-theme-info/class-at-theme-info.php:408
 msgid "Advanced options for manage the Breadcrumb."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:415
+#: acmethemes/at-theme-info/class-at-theme-info.php:413
 msgid "Video Post On Featured"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:416
+#: acmethemes/at-theme-info/class-at-theme-info.php:414
 msgid "Create your video post easily from Youtube and Vimeo video."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:418
+#: acmethemes/at-theme-info/class-at-theme-info.php:416
 msgid "Add Own Video On Featured"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:421
+#: acmethemes/at-theme-info/class-at-theme-info.php:419
 msgid "Single Post Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:422
+#: acmethemes/at-theme-info/class-at-theme-info.php:420
 msgid "Manage every entity of single post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:427
+#: acmethemes/at-theme-info/class-at-theme-info.php:425
 msgid "Featured Image Size"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:428
+#: acmethemes/at-theme-info/class-at-theme-info.php:426
 msgid "Select the size of the featured image on the single post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:433
+#: acmethemes/at-theme-info/class-at-theme-info.php:431
 msgid "Sidebars"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:434
+#: acmethemes/at-theme-info/class-at-theme-info.php:432
 msgid "Global and Individual sidebars are available. You can easily orveride it from single page/post."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:435
+#: acmethemes/at-theme-info/class-at-theme-info.php:433
 msgid "Global Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:436
+#: acmethemes/at-theme-info/class-at-theme-info.php:434
 msgid "Advanced Global And Individuals"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:439
+#: acmethemes/at-theme-info/class-at-theme-info.php:437
 msgid "Menu and Logo Location"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:440
+#: acmethemes/at-theme-info/class-at-theme-info.php:438
 msgid "Position of menu and logo section on header."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:442
+#: acmethemes/at-theme-info/class-at-theme-info.php:440
 msgid "3 Position Left, Right and Middle"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:445
+#: acmethemes/at-theme-info/class-at-theme-info.php:443
 msgid "Popup Widget on Header"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:446
+#: acmethemes/at-theme-info/class-at-theme-info.php:444
 msgid "Options to popup widget via Popup Widget Area on Header Top Section."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:447
-#: acmethemes/at-theme-info/class-at-theme-info.php:448
+#: acmethemes/at-theme-info/class-at-theme-info.php:445
+#: acmethemes/at-theme-info/class-at-theme-info.php:446
 msgid "Add your required Widget"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:451
+#: acmethemes/at-theme-info/class-at-theme-info.php:449
 msgid "Multiple Header Type"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:452
+#: acmethemes/at-theme-info/class-at-theme-info.php:450
 msgid "Different Types of Header."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:454
+#: acmethemes/at-theme-info/class-at-theme-info.php:452
 msgid "3 Options"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:457
+#: acmethemes/at-theme-info/class-at-theme-info.php:455
 msgid "WooCommerce"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:458
+#: acmethemes/at-theme-info/class-at-theme-info.php:456
 msgid "Create WooCommerce shop easily with the help of WooCommerce plugin."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:463
+#: acmethemes/at-theme-info/class-at-theme-info.php:461
 msgid "Translation"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:464
+#: acmethemes/at-theme-info/class-at-theme-info.php:462
 msgid "Both theme are translation ready."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:469
+#: acmethemes/at-theme-info/class-at-theme-info.php:467
 msgid "SEO"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:470
+#: acmethemes/at-theme-info/class-at-theme-info.php:468
 msgid "Developed with high skilled SEO tools."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:475
+#: acmethemes/at-theme-info/class-at-theme-info.php:473
 msgid "Widget Area On Footer"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:476
+#: acmethemes/at-theme-info/class-at-theme-info.php:474
 msgid "Change the number of footers on footer area as you need."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:481
+#: acmethemes/at-theme-info/class-at-theme-info.php:479
 msgid "Support Forum"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:482
+#: acmethemes/at-theme-info/class-at-theme-info.php:480
 msgid "Highly dedicated support team are assigned for your help. Try this today."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:483
+#: acmethemes/at-theme-info/class-at-theme-info.php:481
 msgid "Second"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:484
+#: acmethemes/at-theme-info/class-at-theme-info.php:482
 msgid "Dedicated With High Priority"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:619
-#: acmethemes/at-theme-info/class-at-theme-info.php:620
+#: acmethemes/at-theme-info/class-at-theme-info.php:617
+#: acmethemes/at-theme-info/class-at-theme-info.php:618
 msgid "Info"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:958
-#: acmethemes/at-theme-info/class-at-theme-info.php:1091
+#: acmethemes/at-theme-info/class-at-theme-info.php:956
+#: acmethemes/at-theme-info/class-at-theme-info.php:1089
 #: acmethemes/library/tgm/class-tgm-plugin-activation.php:2717
 msgid "Install"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:963
-#: acmethemes/at-theme-info/class-at-theme-info.php:1096
+#: acmethemes/at-theme-info/class-at-theme-info.php:961
+#: acmethemes/at-theme-info/class-at-theme-info.php:1094
 #: acmethemes/library/tgm/class-tgm-plugin-activation.php:2726
 msgid "Activate"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:969
-#: acmethemes/at-theme-info/class-at-theme-info.php:1102
+#: acmethemes/at-theme-info/class-at-theme-info.php:967
+#: acmethemes/at-theme-info/class-at-theme-info.php:1100
 msgid "Deactivate"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:987
+#: acmethemes/at-theme-info/class-at-theme-info.php:985
 msgid "Hooray! There are no recommended actions for you right now."
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:988
+#: acmethemes/at-theme-info/class-at-theme-info.php:986
 msgid "Show All Recommended Actions"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:1077
+#: acmethemes/at-theme-info/class-at-theme-info.php:1075
 #: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:296
 #: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:421
 msgid "|"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:1082
+#: acmethemes/at-theme-info/class-at-theme-info.php:1080
 msgid "Active:"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:1158
+#: acmethemes/at-theme-info/class-at-theme-info.php:1156
 msgid "Download"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:1161
+#: acmethemes/at-theme-info/class-at-theme-info.php:1159
 msgid "Live Preview"
 msgstr ""
 
-#: acmethemes/at-theme-info/class-at-theme-info.php:1305
+#: acmethemes/at-theme-info/class-at-theme-info.php:1303
 msgid "Feminine Style Pro"
 msgstr ""
 
